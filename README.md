@@ -9,7 +9,7 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/contactha
 Until then, remember:  « Believe Before Beginning » 
 
 |T|h|i|n|g|s||I||💚|:|
-| - | - | - | - | - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - | - | - | - | - | - | - |
 | | | |`M`| | | | | | |`W`|
 | |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
 |`M`| | |`D`| | | | |`C`| |`I`|
