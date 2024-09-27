@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Holaaaaa+!++I'm+Hazi+Afrid;A+pharmacist+turned+data+scientist)](https://git.io/typing-svg) [![Doraemon](https://tenor.com/en-GB/view/hello-doraemon-nobita-hi-ドラえもん-gif-19920970.gif)](https://tenor.com/en-GB/view/hello-doraemon-nobita-hi-ドラえもん-gif-19920970.gif)**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Holaaaaa+!++I'm+Hazi+Afrid;A+pharmacist+turned+data+scientist)](https://git.io/typing-svg) [![Doraemon](https://tenor.com/en-GB/view/hello-doraemon-nobita-hi-ドラえもん-gif-19920970.gif)](https://tenor.com/en-GB/view/hello-doraemon-nobita-hi-ドラえもん-gif-19920970.gif)
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/contacthazi/) to chat about data, insights, and the stories they tell  👋
 
@@ -15,11 +15,8 @@ Until then, remember:  « Believe Before Beginning »
 | `D` | `A` | `T` | `A` |  |  |`S`  |  | `O` |  | `P` | `O` | `D` | `C` | `A` |` S ` | `T` | `S` |  |  |  |
 |  |  |  | `R` |  |  |`T`  |  |  `R`  |  |  |  | `I` |  |  |  |  |  |  |  |  |
 |  |  |  | `C` |  |  | `L` |  | `I` |   |  |  | `C` |  |  |  |  |  |  |  |  |
-|`M`  | `A` | `C` |`H` | `I` | `N` |  `E`| `L` | `E` | `A` | `R` | `N` | `I` | `N` | `G` |  |  |  |  |  | `F` |
-|  |  |  |  |  |  |  |  | `S` |  |  |  | `N` |  |  |  |  |  |  |  | `O` |
-|  |  |  |  |  |  |  |  |  |  |  |  | `E` | `N `| `E` | `R` | `G` | `E` | `T` | `I` | `C` |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  `U`|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  | `C` | `U` | `R` | `I` | `O` | `U` |  `S`|  
+|`M`  | `A` | `C` |`H` | `I` | `N` |  `E`| `L` | `E` | `A` | `R` | `N` | `I` | `N` | `G` |  |  |  |  |  |  |
+|  |  | `C` | `U` | `R` | `I` | `O` | `U` | `S` |  |  |  | `N` |  |  |  |  |  |  |  |  |
 
 
 - 👨‍💻 Exploring the world of data science on [GitHub](https://github.com/Masterhazi)
