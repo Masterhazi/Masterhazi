@@ -1,32 +1,28 @@
+### Bonjour !
 
-### Hey there 👋 I'm Hazz! 
+I'm Hazi Afrid, a data science student.
 
-I spend my time exploring the intersection of data and healthcare to improve lives.
+Reach me on [X](https://x.com/HaziAfrid) to chat about data, insights, and the stories they tell  👋
 
-| T | h | i | n | g | s | I | 💚 | : |
-|---|---|---|---|---|---|---|---|---|---|---| 
-| `D` | `A` | `T` | `A` |  |  |  |  | `R` |
-|  |  |  |  | `I` |  |  |  | `E` |
-|  |  |  |  | `N` |  |  |  | `S` |
-|  |  |  |  | `S` | `V` | `I` |  |
-|  |  |  |  | `I` | `I` | `S` | `M` |
-|  |  |  |  | `G` | `Z` | `U` | `E` |
-|  |  |  |  | `H` | `A` | `A` | `D` |
-|  |  |  |  | `T` | `T` | `L` | `I` |
-|  |  |  |  | `S` | `I` | `I` | `C` |
-|  |  |  |  |  | `O` | `Z` | `I` |
-|  |  |  |  |  | `N` | `A` | `N` | 
-|  |  |  |  |  |  |  |  | [💻](https://hazi.tech) |
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/contacthazi/).
 
-- 📚 Currently learning engineering at Great Learning.
-- 🐍 Growing my skills with Python and Pandas.
-- ✍️ Sharing my experiences on Medium: [https://medium.com/@hajiafridbaba](https://medium.com/@hajiafridbaba)
+Until then, remember:  « Believe Before Beginning » 
 
-<br>
+|T|h|i|n|g|s||I||💚|:|
+| - | - | - | - | - | - | - | - | - | - | - |
+| | | |`M`| | | | | |`I`|
+| |`M`|`E`|`D`|`I`|`C`|`I`|`N`|`E`|` `|`S`|
+|`R`| | |`N`| | | | |`T`| |`O`|
+|`E`| | |`S`|`I`|`G`|`H`|`T`|`O`|`R`|
+|`S`| | |`H`|`T`|`S`| | |`I`| |`E`|
+|`E`| | | | | | | |`E`| |`S`|
+|`A`| | | | | | | |`S`| | 
+|`R`| | | | | | | | | |
+|`C`| | | | | | | | | |
+|`H`| | | | | | | | | |
 
-Let's connect! 👇
+- 👨‍💻 Exploring the world of data science on [GitHub](https://github.com/Masterhazi)
 
-[![Twitter Badge](https://img.shields.io/badge/-@Masterhazi-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Masterhazi) 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Masterhazi?style=flat-square)](https://github.com/sponsors/Masterhazi)
+## Latest Stories from My Mind 🧠 
 
-
+_(This section is dynamically updated with my latest Medium articles by a GitHub Actions workflow!)_ 
