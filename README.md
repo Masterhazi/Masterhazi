@@ -6,6 +6,8 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/contactha
 
 Until then, remember:  « Believe Before Beginning » 
 
+**Check out this cool Doraemon GIF: [![Doraemon](https://tenor.com/en-GB/view/hello-doraemon-nobita-hi-ドラえもん-gif-19920970.gif)](https://tenor.com/en-GB/view/hello-doraemon-nobita-hi-ドラえもん-gif-19920970.gif)**
+
 |  |  |  |  |  | M | e | & | M | y | 💙 |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  |  | `R` |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
