@@ -8,14 +8,15 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/contactha
 
 Until then, remember:  « Believe Before Beginning » 
 
-|T|h|i|n|g|s||I||💚|:|
-| - | - | - | - | - | - | - | - | - | - | - |
-| | | |`M`| | | | | | |`W`|
-| |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
-|`M`| | |`D`| | | | |`C`| |`I`|
-|`I`| | |`I`|`O`|`D`|`E`| |`O`| |`M`|
-|`N`| | |`C`| | | | |`L`| |`S`|
-|`I`| |`A`|`L`|`R`|`E`|`S`|`E`|`A`|`R`|`C`|
+| T  |h| i | n | g | s |  | I |   | 💚 |   | : |  |   |   
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+|   ||   |   |   | M |   |   |   |   |   |   |  |   |   
+|   ||   | E | N | E | R | G | E | T  | I  | C |  |   |   
+|   ||  |   |   | D |   |   |   |   | C |   |  |   |   
+|   |D| A | T  | A  | I | N | S | I | G  | H | T  | S |   |   
+|   ||  |   |   | C |   |   |   |   | L |   |  |   |   
+|   ||  |   | | A |  |  |  |  |  |  |  |   |   
+|   ||  |   |  | L | R | E | S | E | A | R | C | H  |   
 
 
 - 👨‍💻 Exploring the world of data science on [GitHub](https://github.com/Masterhazi)
