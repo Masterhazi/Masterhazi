@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Holaaaaa+!++I'm+Hazi+Afrid%2C;+a+data+science+student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Holaaaaa+!++I'm+Hazi+Afrid;A+pharmacist+turned+data+scientist)](https://git.io/typing-svg)
 
 Reach me on [X](https://x.com/HaziAfrid) to chat about data, insights, and the stories they tell  👋
 
