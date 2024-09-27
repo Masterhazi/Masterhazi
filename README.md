@@ -1,4 +1,4 @@
-```markdown
+
 ### Hey there 👋 I'm Hazz! 
 
 I spend my time exploring the intersection of data and healthcare to improve lives.
@@ -28,5 +28,5 @@ Let's connect! 👇
 
 [![Twitter Badge](https://img.shields.io/badge/-@Masterhazi-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Masterhazi) 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Masterhazi?style=flat-square)](https://github.com/sponsors/Masterhazi)
-```
+
 
