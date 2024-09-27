@@ -1,12 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Holaaaaa+!++I'm+Hazi+Afrid;A+pharmacist+turned+data+scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Holaaaaa+!++I'm+Hazi+Afrid;A+pharmacist+turned+data+scientist)](https://git.io/typing-svg) [![Doraemon](https://tenor.com/en-GB/view/hello-doraemon-nobita-hi-ドラえもん-gif-19920970.gif)](https://tenor.com/en-GB/view/hello-doraemon-nobita-hi-ドラえもん-gif-19920970.gif)**
 
 Reach me on [X](https://x.com/HaziAfrid) to chat about data, insights, and the stories they tell  👋
 
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/contacthazi/).
 
 Until then, remember:  « Believe Before Beginning » 
-
-**Check out this cool Doraemon GIF: [![Doraemon](https://tenor.com/en-GB/view/hello-doraemon-nobita-hi-ドラえもん-gif-19920970.gif)](https://tenor.com/en-GB/view/hello-doraemon-nobita-hi-ドラえもん-gif-19920970.gif)**
 
 |  |  |  |  |  | M | e | & | M | y | 💙 |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
