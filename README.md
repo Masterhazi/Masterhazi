@@ -9,13 +9,13 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/contactha
 Until then, remember:  « Believe Before Beginning » 
 
 |T|h|i|n|g|s||I||💚|:|
-| - | - | - | - | - | - | - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - | - | - | - | - |
 | | | |`M`| | | | | | |`W`|
 | |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
 |`M`| | |`D`| | | | |`C`| |`I`|
 |`I`| | |`I`|`O`|`D`|`E`| |`O`| |`M`|
 |`N`| | |`C`| | | | |`L`| |`S`|
-|`I`| |`A`|`L`|`R`|`E`|`S`|`E`|`A`|`R`|`C`||`H`|`C`|
+|`I`| |`A`|`L`|`R`|`E`|`S`|`E`|`A`|`R`|`C`|
 
 
 - 👨‍💻 Exploring the world of data science on [GitHub](https://github.com/Masterhazi)
