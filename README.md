@@ -8,16 +8,19 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/contactha
 
 Until then, remember:  « Believe Before Beginning » 
 
-|T|h|i|n|g|s||I||💚|:|
-| - | - | - | - | - | - | - | - | - | - | - |
-| | | |`M`|`E`|`D`|`I`|`C`|`I`|`N`|`E` |
-| | | | | | | |`R`|`E`|`S`|`E`| 
-| | | | | | | |`A`|`R`|`C`|`H`|
-| | | | | | | | | |`I`|`N`|
-| | | | | | | | | |`S`|`I`|
-| | | | | | | | | |`G`|`H`| 
-| | | | | | | | | |`T`|`S`|
-| | | | | | | | | | | |
+|   |   |   | M | E | D | I | C | I | N | E |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |   | S |   |   |
+|   | 🔬 | R | E | S | E | A | R | C | H |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
+| 📊 |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   | 💡 |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | I | N | S | I | G | H | T | S |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | 🎙️ | S | T | O | R | I | E | S |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   | P | O | D | C | A | S | T | S |
+
 
 - 👨‍💻 Exploring the world of data science on [GitHub](https://github.com/Masterhazi)
 
