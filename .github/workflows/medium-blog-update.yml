@@ -1,59 +1,46 @@
-name: Update Medium Articles
+name: Update README with Latest Medium Articles
 
 on:
   schedule:
-    # Run daily at 00:00 UTC
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allow manual trigger
+    - cron: '*/10 * * * *'  # Runs every 10 minutes
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  update_readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - name: Install Dependencies (if needed)
+      - name: Fetch latest Medium articles
         run: |
-          sudo apt-get update
-          sudo apt-get install -y python3 python3-pip
-          pip3 install feedparser # Install RSS feed parser
+          # Fetch the latest articles from Medium RSS feed
+          curl -s https://medium.com/feed/@hajiafridbaba | \
+          grep -o '<title>[^<]*</title>' | \
+          sed 's/<\/\?title>//g' | \
+          head -n 5 > latest_articles.txt
 
-      - name: Fetch Medium RSS Feed
+      - name: Prepare new section for README
         run: |
-          python3 << EOF > script.py
-          import feedparser
-          import re
+          # Prepare the new section for the README
+          echo "## Latest Stories from My Mind 🧠" > new_section.md
+          echo "" >> new_section.md
+          echo "_This section is dynamically updated with my latest Medium articles._" >> new_section.md
+          echo "" >> new_section.md
+          while IFS= read -r line; do
+            # Convert titles to URLs
+            article_url=$(echo "$line" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | sed 's/[^a-z0-9-]//g')
+            echo "- [$line](https://medium.com/@hajiafridbaba/$article_url)" >> new_section.md
+          done < latest_articles.txt
 
-          feed_url = 'https://medium.com/feed/@hajiafridbaba'
-          feed = feedparser.parse(feed_url)
+          # Append the new section to the README
+          cat new_section.md >> README.md
+          rm new_section.md
 
-          with open('README.md', 'r') as f:
-            readme_content = f.read()
-
-          # Find the section to update
-          start_index = readme_content.find('## Latest Stories from My Mind 🧠')
-          end_index = readme_content.find('_(Keep this section updated with your newest Medium posts!)_')
-
-          # Extract and format recent articles
-          updated_articles = ''
-          for i in range(3): # Get the latest 3 articles
-            entry = feed.entries[i]
-            title = entry.title
-            link = entry.link
-            updated_articles += f'- **[{title}]({link})**\n> {entry.description} \n\n'
-
-          # Update the README.md file content
-          updated_readme = readme_content[:start_index] + '## Latest Stories from My Mind 🧠 \n\n' + updated_articles + readme_content[end_index:]
-          
-          with open('README.md', 'w') as f:
-            f.write(updated_readme)
-
-          EOF
-          python3 script.py
-
-      - name: Commit Changes
-        uses: stephanrunner/add-commit@v1
-        with:
-          branch: 'main' # Update your default branch if necessary
-          message: 'Update Medium articles' 
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update README with latest Medium articles"
+          git push
