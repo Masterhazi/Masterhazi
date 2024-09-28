@@ -24,3 +24,8 @@ Until then, remember:  « Believe Before Beginning »
 ## Latest Stories from My Mind 🧠 
 
 _(This section is dynamically updated with my latest Medium articles by a GitHub Actions workflow!)_ 
+## Latest Stories from My Mind 🧠
+
+_This section is dynamically updated with my latest Medium articles._
+
+- [Stories by Hajiafridbaba on Medium](https://medium.com/@hajiafridbaba/stories-by-hajiafridbaba-on-medium)
