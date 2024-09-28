@@ -14,11 +14,14 @@ jobs:
 
       - name: Fetch latest Medium articles
         run: |
-          # Fetch the latest articles from Medium RSS feed
+          # Fetch the latest articles from Medium RSS feed and extract titles and links
           curl -s https://medium.com/feed/@hajiafridbaba | \
-          grep -o '<title>[^<]*</title>' | \
-          sed 's/<\/\?title>//g' | \
-          head -n 5 > latest_articles.txt
+          grep -o '<item>.*</item>' | \
+          while IFS= read -r item; do
+            title=$(echo "$item" | grep -o '<title>.*</title>' | sed 's/<\/\?title><!\[CDATA\[//; s/\]\]><\/\?title>//g')
+            link=$(echo "$item" | grep -o '<link>[^<]*</link>' | sed 's/<\/\?link>//g')
+            echo "$title|$link" >> latest_articles.txt
+          done
 
       - name: Prepare new section for README
         run: |
@@ -27,10 +30,10 @@ jobs:
           echo "" >> new_section.md
           echo "_This section is dynamically updated with my latest Medium articles._" >> new_section.md
           echo "" >> new_section.md
-          while IFS= read -r line; do
+          while IFS='|' read -r title link; do
             # Convert titles to URLs
-            article_url=$(echo "$line" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | sed 's/[^a-z0-9-]//g')
-            echo "- [$line](https://medium.com/@hajiafridbaba/$article_url)" >> new_section.md
+            article_url=$(echo "$link" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | sed 's/[^a-z0-9-]//g')
+            echo "- [$title]($link)" >> new_section.md
           done < latest_articles.txt
 
           # Append the new section to the README
