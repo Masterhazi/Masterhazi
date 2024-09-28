@@ -21,9 +21,6 @@ Until then, remember:  « Believe Before Beginning »
 
 - 👨‍💻 Exploring the world of data science on [GitHub](https://github.com/Masterhazi)
 
-## Latest Stories from My Mind 🧠 
-
-_(This section is dynamically updated with my latest Medium articles by a GitHub Actions workflow!)_ 
 ## Latest Stories from My Mind 🧠
 
 _This section is dynamically updated with my latest Medium articles._
