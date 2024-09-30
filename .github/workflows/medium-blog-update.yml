@@ -2,7 +2,7 @@ name: Update README with Latest Medium Articles
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every 10 minutes
+    - cron: '0 0 * * *'  # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
           curl -s https://medium.com/feed/@hajiafridbaba | \
           grep -o '<item>.*</item>' | \
           while IFS= read -r item; do
-            title=$(echo "$item" | grep -o '<title>.*</title>' | sed 's/<\/\?title><!\[CDATA\[//; s/\]\]><\/\?title>//g')
+            title=$(echo "$item" | grep -o '<title><!\[CDATA\[.*\]\]></title>' | sed 's/<title><!\[CDATA\[//; s/\]\]><\/title>//g')
             link=$(echo "$item" | grep -o '<link>[^<]*</link>' | sed 's/<\/\?link>//g')
             echo "$title|$link" >> latest_articles.txt
           done
@@ -31,13 +31,12 @@ jobs:
           echo "_This section is dynamically updated with my latest Medium articles._" >> new_section.md
           echo "" >> new_section.md
           while IFS='|' read -r title link; do
-            # Convert titles to URLs
-            article_url=$(echo "$link" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | sed 's/[^a-z0-9-]//g')
-            echo "- [$title]($link)" >> new_section.md
+            echo "- $title" >> new_section.md
           done < latest_articles.txt
 
-          # Append the new section to the README
-          cat new_section.md >> README.md
+          # Replace the old section with the new section in the README
+          sed -i '/## Latest Stories from My Mind 🧠/,/<!-- END latest_stories -->/c\\' README.md
+          sed -i '/## Latest Stories from My Mind 🧠/r new_section.md' README.md
           rm new_section.md
 
       - name: Commit and push changes
