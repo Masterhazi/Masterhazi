@@ -20,6 +20,8 @@ Until then, remember:  « Believe Before Beginning »
 
 
 - 👨‍💻 Exploring the world of data science on [GitHub](https://github.com/Masterhazi)
+------------------------------------------------------------------------------------
 
-This here is my video resume take your time because its kinda long
-![video](https://youtu.be/gAMCFv2SU9s)
+### 🎥 Featured Video  
+#### 🤖 This Here is my Video resume created using animaze, notebook LM and clipchamp
+[![Watch the video](https://img.youtube.com/vi/gAMCFv2SU9s/0.jpg)](https://youtu.be/gAMCFv2SU9s?si=asryPw3kCmJwKUHn)  
