@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Holaaaaa+!++I'm+Hazi+Aafrid+Baba;A+pharmacist+turned+data+scientist)](https://hajiafrid.vercel.app) [![Doraemon](https://tenor.com/en-GB/view/hello-doraemon-nobita-hi-ドラえもん-gif-19920970.gif)](https://tenor.com/en-GB/view/hello-doraemon-nobita-hi-ドラえもん-gif-19920970.gif)
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/contacthazi/) to chat about data, insights, and the stories they tell  👋
+Reach me on [LinkedIn](https://www.linkedin.com/in/hazi-aafrid/) to chat about data, insights, and the stories they tell  👋
 
 You can also connect with me on [X](https://x.com/HaziAfrid).
 
